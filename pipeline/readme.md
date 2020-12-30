@@ -1,3 +1,3 @@
 ## Pipeline Created for Electric power
 
-![Image](images/kenes-Pipeline.png)
+![Image](kenechis-pipeline/images/kenes_Pipeline.png)
